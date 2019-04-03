@@ -1,5 +1,5 @@
 # Information-Retrival
 
-This project is a recomendation system. 
+This project is a recommendation system.
 
-There are some user whose preferencies are known and we should classify the text into categories to match user priorities.   
+There are some users whose preferences are known and we should classify the text to match user priorities.
